@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Eurocad)(type KiCad)(uri D:/LedArray/eurocad-master/Eurocad.pretty)(options "")(descr ""))
+  (lib (name SOP-A)(type KiCad)(uri ${KIPRJMOD}/SOP-A.pretty)(options "")(descr ""))
+  (lib (name Battery-CR12-holder-smd)(type KiCad)(uri ${KIPRJMOD}/Battery-CR12-holder-smd.pretty)(options "")(descr ""))
+)
