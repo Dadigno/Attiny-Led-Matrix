@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name Eurocad)(type Legacy)(uri D:/LedArray/eurocad-master/eurocad.lib)(options "")(descr ""))
+  (lib (name LedArray-rescue)(type Legacy)(uri ${KIPRJMOD}/LedArray-rescue.lib)(options "")(descr ""))
 )
