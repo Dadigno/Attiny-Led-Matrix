@@ -2853,7 +2853,7 @@ F 1 "DIODE" V 3845 1578 50  0000 L CNN
 F 2 "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 3800 1450 50  0001 C CNN
 F 3 "~" H 3800 1450 50  0001 C CNN
 	1    3800 1450
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 Wire Wire Line
 	3800 1650 3800 2200
